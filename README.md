@@ -2,7 +2,7 @@ Welcome to My GitHub!
 Hello! 👋 I'm Swayam Agarwal, a passionate Software Developer, Data Scientist, and Machine Learning Enthusiast. I love solving complex problems with code, and I’m always eager to learn and explore new technologies. This repository is a collection of my personal projects, coding challenges, and learning journey.
 
 🚀 What You’ll Find Here
-Software Development Projects: Algorithms, and coding challenges.
+Software Development Projects: Algorithms, coding challenges, and software development projects.
 Data Science & Machine Learning: Projects on data analysis, machine learning models, and data visualization.
 Learning Repositories: Resources and code related to courses I’ve taken, including statistics, Python, and C++.
 Experimentation: Projects where I experiment with new concepts, tools, and techniques.
