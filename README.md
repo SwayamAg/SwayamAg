@@ -41,7 +41,8 @@ Hello! 👋 I'm **Swayam Agarwal**, a passionate **Software Developer**, **Data 
 ### **Customer Churn Prediction** 📊
 A machine learning model designed to predict customer churn by analyzing patterns in customer behavior. The project improves churn detection accuracy through data preprocessing, feature engineering, and model evaluation techniques.
 
-### **Smart-Soil: Fertility and Crop Prediction**(will be committing this) 🌾
+### **Smart-Soil: Fertility and Crop Prediction** 🌾
+(will be committing this)
 A soil fertility and crop recommendation system that uses satellite data (Sentinel-1/2) and ML models. The project leverages Google Earth Engine, real-time soil moisture estimation, and geolocation-based analysis to assist farmers in choosing the right crop and assessing soil fertility.
 
 ### **Word Clouds: Text Sequencing for Better Understanding** ✨
