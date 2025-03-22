@@ -13,24 +13,48 @@ Hello! 👋 I'm **Swayam Agarwal**, a passionate **Software Developer**, **Data 
 
 ---
 
-## 🌟 Key Technologies I Work With
+## 🌟 Key Technologies & Tools
 
 - **Languages**: Python, C++, SQL
-- **Frameworks**: None (Eager to explore and learn in the future!)
-- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning**: Scikit-learn (Currently exploring machine learning techniques)
-- **Databases**: MySQL (Currently learning database management and optimization)
-- **Tools**: Git, Jupyter Notebook, Visual Studio Code
+
+- **Data Science Libraries**: Pandas, NumPy, Seaborn, Matplotlib
+
+- **Machine Learning & Deep Learning**:
+  - **ML Libraries**: Scikit-learn, XGBoost
+  - **Deep Learning**: TensorFlow (actively learning deep learning concepts)
+  - **Computer Vision**: OpenCV (exploring face detection, image-based ML projects)
+  - **NLP**: LangChain, sentiment analysis, text-based models
+
+- **Databases**: MySQL (growing expertise in database queries and optimization)
+
+- **Web & Deployment Tools**:
+  - **Frameworks**: FastAPI, Streamlit
+  - **Deployment & Satellite Data Processing**: Google Earth Engine (for soil moisture prediction)
+  - **Version Control**: GitHub (actively learning Git workflows)
+
+- **Other Tools**: Jupyter Notebook, Visual Studio Code, PyCharm, Anaconda
 
 ---
 
-## 📚 Current Projects
+## 📚 Current & Highlighted Projects
 
-### **Credit Card Fraud Detection System**  
-A machine learning-based project that uses historical credit card transaction data to detect fraudulent transactions. It leverages **Supervised Learning** algorithms and performs data preprocessing, feature engineering, and model evaluation.
+### **Customer Churn Prediction** 📊
+A machine learning model designed to predict customer churn by analyzing patterns in customer behavior. The project improves churn detection accuracy through data preprocessing, feature engineering, and model evaluation techniques.
 
-### **Face Detection Attendance System**  
-An automated attendance system using **OpenCV** and **face detection** technology. It identifies faces from a live camera feed and marks attendance based on detected faces. This system simplifies attendance tracking in classrooms and workplaces.
+### **Smart-Soil: Fertility and Crop Prediction** 🌾
+A soil fertility and crop recommendation system that uses satellite data (Sentinel-1/2) and ML models. The project leverages Google Earth Engine, real-time soil moisture estimation, and geolocation-based analysis to assist farmers in choosing the right crop and assessing soil fertility.
+
+### **Word Clouds: Text Sequencing for Better Understanding** ✨
+An NLP project aimed at improving text comprehension by visualizing text data using word clouds. This helps highlight key trends and frequently used terms in a given text.
+
+### **Earthquake Magnitude Prediction** 🌍
+A machine learning project focused on predicting earthquake intensity based on historical seismic data. Key features include data preprocessing, feature engineering, and the use of supervised learning models.
+
+### **Credit Card Fraud Detection System** 💳
+A machine learning-based solution that detects fraudulent transactions using historical credit card transaction data. It applies Supervised Learning algorithms, feature engineering, and model evaluation to optimize fraud detection.
+
+### **Face Detection Attendance System** 📸
+An automated attendance tracking system developed using OpenCV, which recognizes faces from a live camera feed and marks attendance based on the detected faces.
 
 ---
 
@@ -50,4 +74,3 @@ Feel free to explore my repositories, open issues, and give feedback on my proje
 
 [LinkedIn](https://www.linkedin.com/in/swayam-agarwal)
 
----
