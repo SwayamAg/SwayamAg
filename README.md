@@ -1,77 +1,110 @@
-# Welcome to My GitHub!
+<div align="center">
+  <h1>👋 Hi, I'm Swayam Agarwal</h1>
+  <h3>🚀 AI/ML Engineer | Designing Intelligent Systems</h3>
+  <p>Data &rarr; Models &rarr; APIs &rarr; Deployment</p>
+</div>
 
-Hello! 👋 I'm **Swayam Agarwal**, a passionate **Software Developer**, **Data Scientist**, and **Machine Learning Enthusiast**. I love solving complex problems with code, and I’m always eager to learn and explore new technologies. This repository is a collection of my personal projects, coding challenges, and learning journey.
-
----
-
-## 🚀 What You’ll Find Here
-
-- **Software Development Projects**: Algorithms, coding challenges, and software development projects.
-- **Data Science & Machine Learning**: Projects on data analysis, machine learning models, and data visualization.
-- **Learning Repositories**: Resources and code related to courses I’ve taken, including statistics, Python, and C++.
-- **Experimentation**: Projects where I experiment with new concepts, tools, and techniques.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Specializing+in+LLMs+%26+Computer+Vision;Building+end-to-end+AI+applications;Passionate+about+Generative+AI+%26+AI+Agents" alt="Typing Animation" />
+</p>
 
 ---
 
-## 🌟 Key Technologies & Tools
+## ⚡ Tech Stack  
 
-- **Languages**: Python, C++, SQL
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
-- **Data Science Libraries**: Pandas, NumPy, Seaborn, Matplotlib
+  <!-- ML/DL -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-EB5E00?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-- **Machine Learning & Deep Learning**:
-  - **ML Libraries**: Scikit-learn, XGBoost
-  - **Deep Learning**: TensorFlow (actively learning deep learning concepts)
-  - **Computer Vision**: OpenCV (exploring face detection, image-based ML projects)
-  - **NLP**: LangChain, sentiment analysis, text-based models
+  <!-- LLMs -->
+  <img src="https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini%20Pro-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge"/>
 
-- **Databases**: MySQL (growing expertise in database queries and optimization)
-
-- **Web & Deployment Tools**:
-  - **Frameworks**: FastAPI, Streamlit
-  - **Deployment & Satellite Data Processing**: Google Earth Engine (for soil moisture prediction)
-  - **Version Control**: GitHub (actively learning Git workflows)
-
-- **Other Tools**: Jupyter Notebook, Visual Studio Code, PyCharm, Anaconda
-
----
-
-## 📚 Current & Highlighted Projects
-
-### **Customer Churn Prediction** 📊
-A machine learning model designed to predict customer churn by analyzing patterns in customer behavior. The project improves churn detection accuracy through data preprocessing, feature engineering, and model evaluation techniques.
-
-### **Smart-Soil: Fertility and Crop Prediction (will be committing this)** 🌾
-
-A soil fertility and crop recommendation system that uses satellite data (Sentinel-1/2) and ML models. The project leverages Google Earth Engine, real-time soil moisture estimation, and geolocation-based analysis to assist farmers in choosing the right crop and assessing soil fertility.
-
-### **Word Clouds: Text Sequencing for Better Understanding** ✨
-An NLP project aimed at improving text comprehension by visualizing text data using word clouds. This helps highlight key trends and frequently used terms in a given text.
-
-### **Earthquake Magnitude Prediction** 🌍
-A machine learning project focused on predicting earthquake intensity based on historical seismic data. Key features include data preprocessing, feature engineering, and the use of supervised learning models.
-
-### **Credit Card Fraud Detection System** 💳
-A machine learning-based solution that detects fraudulent transactions using historical credit card transaction data. It applies Supervised Learning algorithms, feature engineering, and model evaluation to optimize fraud detection.
-
-### **Face Detection Attendance System** 📸
-An automated attendance tracking system developed using OpenCV, which recognizes faces from a live camera feed and marks attendance based on the detected faces.
+  <!-- Infra/Tools -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=googleearth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-## 🌱 My Learning Journey
+## 💼 Experience  
 
-I’m continuously learning and growing in the field of software development and data science. Some of my current learning goals include:
-
-- Enhancing my **Machine Learning** and **Deep Learning** skills.
-- Building **Real-World Data Science Projects** to apply my knowledge.
-- Experimenting with new tools and technologies in **web development** and **programming**.
+**AI Lead — Código Maestro** (Apr 2025 – Present)  
+- Designed & deployed ML/DL models (ANN, CNN) in production.  
+- Built LLM-based chatbots (Gemini Pro + FastAPI) serving real users.  
+- Mentored peers on **model evaluation, prompt design, and deployment workflows**.  
 
 ---
 
-## 🤝 Let’s Connect!
+## 🚀 Featured Projects  
 
-Feel free to explore my repositories, open issues, and give feedback on my projects. I am always open to collaboration and new ideas! You can also connect with me on:
+- **[Smart-Soil](https://github.com/SwayamAg/Smart-Soil)** 🌱  
+  Geospatial ML system for **soil moisture & crop recommendation**.  
+  → Delivered accurate soil moisture estimates from **Sentinel data**, boosting agricultural decision-making.  
 
-[LinkedIn](https://www.linkedin.com/in/swayam-agarwal)
+- **[PlantVision-AI](https://github.com/SwayamAg/PlantVision-AI)** 🌿  
+  ResNet50-powered **plant species classifier**, served via FastAPI.  
+  → Built **deployable inference API** with 90%+ accuracy.  
 
+- **[Medical Insurance Premium Prediction](https://github.com/SwayamAg/Medical-Insurance-Premium-Prediction)** 💊  
+  End-to-end **tabular ML pipeline** with feature engineering + Streamlit UI.  
+  → Improved model accuracy & user experience.  
+
+- **[Fitness-ChatBOT](https://github.com/SwayamAg/Fitness-ChatBOT)** 🏋️  
+  LLM-powered chatbot for **fitness & nutrition guidance**.  
+  → Integrated LangChain + Gemini API for contextual answers.  
+
+📌 *See pinned repos on my profile for more!*  
+
+---
+
+## 🎓 Certifications  
+
+[![Microsoft AI-900](https://img.shields.io/badge/Microsoft%20AI--900-%230078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/swayamagarwal-5642/credentials/8f96ff2e94f602e0)  
+[![NVIDIA DLI](https://img.shields.io/badge/NVIDIA%20DLI-LLM%20Applications-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=Ejp2Q6neTyKyKRZP8lSGGA)  
+[![Google](https://img.shields.io/badge/Google-Project%20Planning-%234285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/FKWSYHI7FNRM)  
+[![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-TensorFlow%20Intro-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/1S4XD7WKOYT4)  
+
+
+---
+
+## 🏆 Achievements  
+
+- **GSSoC'25 Mentor** 👨‍🏫 — Guided open-source AI/ML contributors, created issues, reviewed PRs, and mentored devs.  
+- **Guest Speaker** 🎤 — *Play The AI Way (Código Maestro)* → Delivered a session on AI career paths, roadmaps, real-world applications & ethics.  
+
+---
+
+## ​ GitHub Insights  
+
+<p align="center">
+  <!-- Clean profile summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwayamAg&theme=tokyonight" height="180"/>
+</p>
+
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/swayam-agarwal">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:swayamagarwal19@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SwayamAg">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
