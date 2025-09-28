@@ -85,6 +85,7 @@
 
 - **GSSoC'25 Mentor** 👨‍🏫 — Guided open-source AI/ML contributors, created issues, reviewed PRs, and mentored devs.  
 - **Guest Speaker** 🎤 — *Play The AI Way (Código Maestro)* → Delivered a session on AI career paths, roadmaps, real-world applications & ethics.  
+- **Google Student Ambassador (GSA)** 🌟 — Selected as a GSA, contributing to tech initiatives and engaging with the developer community.  
 
 ---
 
@@ -108,3 +109,4 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
