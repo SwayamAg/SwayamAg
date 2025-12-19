@@ -96,7 +96,7 @@
   *(Student representative for Google-led programs and initiatives)*
 
 - **Legend Tier Achiever** — Google Cloud Arcade  
-  *(Highest achievement tier in Google Cloud skill challenges)*  
+  *(Highest achievement tier in Google Cloud skill challenges)*
 
 ---
 
