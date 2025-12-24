@@ -51,9 +51,9 @@
 
 ## 🚀 Featured Projects  
 
-- **[Smart-Soil](https://github.com/SwayamAg/Smart-Soil)** 🌱  
-  Geospatial ML system for **soil moisture & crop recommendation**.  
-  → Delivered accurate soil moisture estimates from **Sentinel data**, boosting agricultural decision-making.  
+- **[AgroVision 🌾](https://github.com/SwayamAg/Agrovision-v2.0)**  
+  AI-powered smart farming platform built as multiple AIML microservices.  
+  → FastAPI-based services for **soil & crop analysis, CNN plant classification, and a Gemini-powered agricultural chatbot** using real-time satellite data.  
 
 - **[PlantVision-AI](https://github.com/SwayamAg/PlantVision-AI)** 🌿  
   ResNet50-powered **plant species classifier**, served via FastAPI.  
